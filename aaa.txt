@@ -1,6 +1,4 @@
 aaaaaaaaaa
-<<<<<<< HEAD
 AAA
-=======
+exercise 1-4
 BBB
->>>>>>> fd14dbb (Exercise 1-3)
